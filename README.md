@@ -1,8 +1,10 @@
 
 ## Deployment
 
-In the project directory, you can run:
-
+`git clone https://github.com/dlara95/loginwithreactjs.git`
+`cd loginwithreactjs`
+`npm install`
+`npm start`
 ### `yarn start`
 
 Runs the app in the development mode.<br />
